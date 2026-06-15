@@ -243,6 +243,6 @@ GitHub:
 https://github.com/Simpletee17
 
 LinkedIn:
-https://www.linkedin.com/in/tolulope-glory-7a3116258/
+https://www.linkedin.com/in/tolulope-glory-awoyemi
 
 ---
