@@ -143,9 +143,9 @@ GROUP BY Region;
 
 ![Customers by Region](SQL%20Screenshots/Customers_By_Region.png)
 
-### Cancelled Customers by Region
+### Top Regions by Cancellation
 
-![Cancelled Customers by Region](SQL%20Screenshots/Cancelled_Customers_By_Region.png)
+![Top Regions by Cancellation](SQL%20Screenshots/Top_Regions_by_Cancellation.png)
 
 ---
 
