@@ -237,7 +237,7 @@ Power BI File
 
 **Tolulope Glory**
 
-Aspiring Data Analyst | Social Media Manager | Executive Virtual Assistant
+Data Analyst | Power BI Developer | Business Intelligence Analyst
 
 GitHub:
 https://github.com/Simpletee17
